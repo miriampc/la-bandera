@@ -31,3 +31,9 @@ h2{
 .second div{
   float: left;
 }
+.third{
+  overflow: auto;
+}
+.third div{
+  float: right;
+}
