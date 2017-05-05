@@ -1,0 +1,27 @@
+*{
+  font-family: fantasy;
+  margin: 0;
+  padding: 0;
+}
+h2{
+  text-align: center;
+  margin-top: 20px;
+}
+.container{
+  border: 1px solid #000;
+  margin: 30px 20%;
+}
+.box-color{
+  width: 170px;
+  height: 100px;
+}
+
+.first div:nth-child(1){
+  background: yellow;
+}
+.first div:nth-child(2){
+  background: blue;
+}
+.first div:nth-child(3){
+  background: red;
+}
