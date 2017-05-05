@@ -16,12 +16,18 @@ h2{
   height: 100px;
 }
 
-.first div:nth-child(1){
+.container div:nth-child(1){
   background: yellow;
 }
-.first div:nth-child(2){
+.container div:nth-child(2){
   background: blue;
 }
-.first div:nth-child(3){
+.container div:nth-child(3){
   background: red;
+}
+.second{
+  overflow: auto;
+}
+.second div{
+  float: left;
 }
